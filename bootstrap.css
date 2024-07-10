@@ -5,12 +5,12 @@
 }
 
 
-html, body {
-    overflow-x: hidden;
-    margin: 0;
-    padding: 0;
-    width: 100%;
-}
+        body {
+            transform: scale(0.64);
+            transform-origin: 0 0;
+            width: 156.25%;
+            height: 156.25%;
+        }
 
 
 
